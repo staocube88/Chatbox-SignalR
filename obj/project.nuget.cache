@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "71EUdgM7ox4GRHCNSojqYesay4cXD8pu6u9FgKlaiw+sxr0o+9VKb+xjBh/UVW0la3LBLCfogQwF63inNutGog==",
+  "success": true,
+  "projectFilePath": "/home/bambam/project/SignalR/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/home/bambam/.nuget/packages/microsoft.typescript.msbuild/4.7.4/microsoft.typescript.msbuild.4.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
