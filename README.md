@@ -1,2 +1,0 @@
-# Chatbox-SignalR
-Testing SignalR
